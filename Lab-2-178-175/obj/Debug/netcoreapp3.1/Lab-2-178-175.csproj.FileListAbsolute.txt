@@ -1,0 +1,13 @@
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\bin\Debug\netcoreapp3.1\Lab-2-178-175.exe
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\bin\Debug\netcoreapp3.1\Lab-2-178-175.deps.json
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\bin\Debug\netcoreapp3.1\Lab-2-178-175.runtimeconfig.json
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\bin\Debug\netcoreapp3.1\Lab-2-178-175.runtimeconfig.dev.json
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\bin\Debug\netcoreapp3.1\Lab-2-178-175.dll
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\bin\Debug\netcoreapp3.1\Lab-2-178-175.pdb
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\obj\Debug\netcoreapp3.1\Lab-2-178-175.AssemblyInfoInputs.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\obj\Debug\netcoreapp3.1\Lab-2-178-175.AssemblyInfo.cs
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\obj\Debug\netcoreapp3.1\Lab-2-178-175.csproj.CoreCompileInputs.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\obj\Debug\netcoreapp3.1\Lab-2-178-175.dll
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\obj\Debug\netcoreapp3.1\Lab-2-178-175.pdb
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\obj\Debug\netcoreapp3.1\Lab-2-178-175.genruntimeconfig.cache
+D:\Douglas\CSIS-1175-002-Introduc Program I\Lab-2-178-175\Lab-2-178-175\obj\Debug\netcoreapp3.1\Lab-2-178-175.csprojAssemblyReference.cache
